@@ -188,7 +188,7 @@ Publish the website in the given URL.
 ## OUTPUT
 ![alt text](<Screenshot 2025-05-20 150730.png>)
 ![alt text](<Screenshot 2025-05-20 150747.png>)
-[alt text](<Screenshot 2025-05-20 150805.png>)
+![alt text](<Screenshot 2025-05-20 150805.png>)
 ![alt text](<Screenshot 2025-05-20 150828.png>)
 ![alt text](<Screenshot 2025-05-20 150849.png>)
 ![alt text](<Screenshot 2025-05-20 150909.png>)
